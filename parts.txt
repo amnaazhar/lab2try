@@ -1,5 +1,3 @@
-Finance Team
--Anma
--Anam
--Haseeb
--Abdullah
+Finance
+-Amna
+-mars
